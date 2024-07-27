@@ -33,7 +33,7 @@
   <a href="https://auth.geeksforgeeks.org/user/jeetbaldha" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jeetbaldha" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/baldha_" target="blank">
+  <a href="https://www.hackerrank.com/profile/rajlakkad2004n" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baldha_" height="30" width="40" />
   </a>
 </p>
