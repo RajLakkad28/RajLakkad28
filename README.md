@@ -21,7 +21,7 @@
   <a href="https://twitter.com/jeetbaldha26" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeetbaldha26" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/jeet-baldha" target="blank">
+  <a href="https://linkedin.com/in/raj-lakkad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet baldha" height="30" width="40" />
   </a>
   <a href="https://instagram.com/jeet_baldha_" target="blank">
