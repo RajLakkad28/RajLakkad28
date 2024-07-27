@@ -85,8 +85,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeet-baldha&show_icons=true&locale=en&layout=compact" alt="jeet-baldha" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet-baldha&show_icons=true&locale=en" alt="jeet-baldha" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet-baldha&" alt="jeet-baldha" />
-</p>
+
