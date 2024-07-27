@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://twitter.com/jeetbaldha26" target="blank">
+  <a href="https://www.linkedin.com/in/raj-lakkad-591037251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img src="https://img.shields.io/twitter/follow/jeetbaldha26?logo=twitter&style=for-the-badge" alt="jeetbaldha26" />
   </a>
 </p>
