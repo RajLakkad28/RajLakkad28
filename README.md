@@ -1,5 +1,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png">
-<h1 align="center">Hi 👋, I'm Jeet Baldha</h1>
+<h1 align="center">Hi 👋, I'm Raj Lakkad</h1>
 <h3 align="center">A passionate Fullstack web developer from India</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,7 +13,7 @@
 </p>
 👨‍💻 All of my projects are available at jeetbaldha.tech
 💬 Ask me about React, Node.js, MongoDB, and Express
-📫 How to reach me: jeetbaldha12@gmail.com
+📫 How to reach me: rajlakkad2004n@gmail.com
 📄 Know about my experiences: Resume
 ⚡ Fun fact: Chai is my daily comfort joy.
 <h3 align="left">Connect with me:</h3>
