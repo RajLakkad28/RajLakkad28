@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack web developer from India</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeet-baldha" alt="jeet-baldha" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rajlakkad28" alt="jeet-baldha" />
   </a>
 </p>
 <p align="left">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/twitter/follow/jeetbaldha26?logo=twitter&style=for-the-badge" alt="jeetbaldha26" />
   </a>
 </p>
-👨‍💻 All of my projects are available at jeetbaldha.tech
+👨‍💻 All of my projects are available here
 💬 Ask me about React, Node.js, MongoDB, and Express
 📫 How to reach me: rajlakkad2004n@gmail.com
 📄 Know about my experiences: Resume
