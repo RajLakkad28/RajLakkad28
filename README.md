@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/raj-lakkad-591037251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet baldha" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/jeet_baldha_" target="blank">
+  <a href="https://instagram.com/raj_lakkad28" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeet_baldha_" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/jeet_12" target="blank">
